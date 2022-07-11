@@ -114,5 +114,8 @@ vendor.voice.path.for.pcm.voip=true
 persist.vendor.qcom.bluetooth.soc=hastings
 vendor.qcom.bluetooth.soc=hastings
 
+# Chipset
+ro.soc.model=SM8250
+
 # Volume steps
 ro.config.vc_call_vol_steps=11
