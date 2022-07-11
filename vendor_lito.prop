@@ -107,6 +107,10 @@ vendor.audio_hal.period_multiplier=3
 vendor.audio_hal.period_size=192
 vendor.voice.path.for.pcm.voip=true
 
+# Bluetooth
+persist.vendor.qcom.bluetooth.soc=cherokee
+vendor.qcom.bluetooth.soc=cherokee
+
 # Volume steps
 ro.config.media_vol_steps=30
 ro.config.vc_call_vol_steps=10

@@ -110,5 +110,9 @@ vendor.audio_hal.period_multiplier=2
 vendor.audio_hal.period_size=192
 vendor.voice.path.for.pcm.voip=true
 
+# Bluetooth
+persist.vendor.qcom.bluetooth.soc=hastings
+vendor.qcom.bluetooth.soc=hastings
+
 # Volume steps
 ro.config.vc_call_vol_steps=11
